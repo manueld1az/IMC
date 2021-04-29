@@ -1,0 +1,14 @@
+.div1 {
+  max-width: 50vh;
+}
+.buttonCalcular {
+  width: 100%;
+  background-color: #1d3557;
+  color: #fff;
+}
+
+.buttonCalcular:hover {
+  border: #1d3557 solid 1px;
+  background-color: #fff;
+  color: #1d3557;
+}
